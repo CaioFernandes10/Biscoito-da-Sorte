@@ -1,2 +1,2 @@
 # Biscoito-da-Sorte
-pequeno projeto de introdução ao React e Roocks
+pequeno projeto de introdução ao Reac-Native e Roocks
